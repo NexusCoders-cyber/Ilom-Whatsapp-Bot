@@ -46,7 +46,7 @@ This project and everyone participating in it is governed by our Code of Conduct
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/whatsapp-bot.git
+   git clone https://github.com/NexusCoders-cyber/Ilom-Whatsapp-Bot.git
    cd whatsapp-bot
    ```
 
@@ -567,3 +567,4 @@ Every contribution, no matter how small, makes a difference! Thank you for helpi
 **Happy Coding! 🚀**
 
 *Questions? Feel free to reach out to the maintainers or community.*
+
