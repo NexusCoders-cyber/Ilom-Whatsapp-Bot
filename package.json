@@ -108,7 +108,6 @@
     "jsdom": "^23.0.1",
     "node-html-to-image": "^4.0.0",
     "canvas": "^2.11.2",
-    "jimp": "^0.22.10",
     "gm": "^1.25.0",
     "imagemin": "^8.0.1",
     "imagemin-mozjpeg": "^10.0.0",
